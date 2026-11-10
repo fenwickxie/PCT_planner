@@ -93,3 +93,7 @@ python3 plan.py --scene Spiral
 The source code is released under [GPLv2](http://www.gnu.org/licenses/) license.
 
 For commercial use, please contact Bowen Yang [byangar@connect.ust.hk](mailto:byangar@connect.ust.hk).
+
+## Documentation
+
+Chinese project and paper guides are available in [`doc/`](doc/README.md). The paper guide is an original technical explanation, not a full-text translation.
